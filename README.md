@@ -3,7 +3,7 @@
 更多好玩的工具请前往[下载](https://www.packal.org/workflow)
 
 # CodeVar.alfredworkflow
-生成变量名，支持大小驼峰、常量、下划线，开发者必备的工作流
+生成变量名，支持大小驼峰、常量、下划线，开发者必备的工作流，需要配置[有道开放平台](https://ai.youdao.com/new/)的 API。
 
 # GitClone.alfredworkflow
 自动读取剪切板的git仓库地址，并clone到指定的目录
