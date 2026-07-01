@@ -1,5 +1,5 @@
 # alfredworkflow
-记录日常开发使用的alfredworkflow
+记录日常开发使用的alfredworkflow,
 更多好玩的工具请前往[下载](https://www.packal.org/workflow)
 
 # CodeVar.alfredworkflow
