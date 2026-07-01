@@ -35,7 +35,7 @@ Base64 编解码
 快速查找项目/用户
 
 # ip-address.alfredworkflow
-快速查询本地ip和公网出口ip，再也不用到http://ipip.net上去查询了
+快速查询本地ip和公网出口ip，再也不用到[ipip](http://ipip.net)上去查询了
 
 # jsonEditor
 [一款chrome插件](https://github.com/sunzsh/chromeapp-jsonedit)的辅助工具，可以在chrome中快速打开json编辑器
